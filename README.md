@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurag Singh Solanki</h1>
 <h3 align="center">A Passionate Full Stack Android & Web Developer from India</h3>
 
-- 🔭 I’m currently working on [Osare Studios Application](https://osarestudios.com)
+- 🔭 I’m currently working on [SelliMall Application]
 
 - 🌱 I’m currently learning **React Js, Php, Java, Tailwind CSS**
 
